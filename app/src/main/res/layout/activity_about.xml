@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.xfr.myapplication.AboutActivity">
+
+    <!-- 关于 -->
+    <TextView
+        android:id="@+id/lax"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:text="非正式版记事本\n\nAll Right Reserved"
+        android:textSize="14sp"
+        android:layout_centerInParent="true"/>
+
+</RelativeLayout>

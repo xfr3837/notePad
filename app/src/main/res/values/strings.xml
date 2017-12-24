@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">记事本</string>
+    <string name="title_activity_note_edit">NoteEdit</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
